@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## ♟ Sobre mim
 
 - 💻 Estudando programação na ETEC Zona Leste
 - 🚀 Sempre aprendendo algo novo
