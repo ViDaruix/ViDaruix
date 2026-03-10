@@ -4,6 +4,7 @@
 <p align="center">
 🚀 Estou aprendendo programação <br>
 ⚡ Criando projetos e explorando tecnologia
+🏈 I speak English!
 </p>
 
 ---
