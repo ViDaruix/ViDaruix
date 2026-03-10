@@ -2,7 +2,7 @@
 <h3 align="center">💻 Sou um Developer em evolução.</h3>
 
 <p align="center">
-🚀 Estou aprendendo programação <br>
+🚀 Estou aprendendo formação <br>
 🇧🇷 Made in Brazil, but... <br>
 🇺🇸 I speak English!
 </p>
