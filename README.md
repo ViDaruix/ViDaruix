@@ -3,8 +3,8 @@
 
 <p align="center">
 🚀 Estou aprendendo programação <br>
-⚡ Criando projetos e explorando tecnologia <br>
-🏈 I speak English!
+🇧🇷 Made in Brazil, but... <br>
+🇺🇸 I speak English!
 </p>
 
 ---
