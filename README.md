@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Estou aprendendo programação <br>
-⚡ Criando projetos e explorando tecnologia
+⚡ Criando projetos e explorando tecnologia <br>
 🏈 I speak English!
 </p>
 
